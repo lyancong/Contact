@@ -1,4 +1,5 @@
-import './assets/main.css'
+//引入初始化样式文件
+import '@/style/common.scss'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'
